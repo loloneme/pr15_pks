@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49341591771",
+    "project_id": "drinks-af0e7",
+    "storage_bucket": "drinks-af0e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49341591771:android:43526f26fec2395ba39cfe",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7UaojLan9kAsoCO5sasEepC6cWk3Hm88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
